@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Passionate+Frontend+Developer%F0%9F%94%A5;Eager+%7CTech+learning%7C+Career+growth" alt="Typing SVG" /></a>
 </p>
 
-- <div style="display:flex;"><img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="25" height="25" /><h2>I’m currently working on **React Js**</h2></div>
+- <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="20" height="20" />I’m currently working on **React Js**
 
 - <img src="https://em-content.zobj.net/source/microsoft-teams/337/open-book_1f4d6.png" width="20" height="20" /> I’m currently learning **Blockchain**
 
