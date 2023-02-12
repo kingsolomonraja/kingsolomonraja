@@ -1,4 +1,4 @@
-<h1 align="center"><p style="display:flex,align-items:center"><p>Hi</p><img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40" height="40" /><p>, I'm Moses J</p></p></h1>
+<h1 align="center"><p style="display:flex,align-items:center,justify-content:center"><p>Hi</p><img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40" height="40" /><p>, I'm Moses J</p></p></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Passionate+Frontend+Developer%F0%9F%94%A5;Eager+%7CTech+learning%7C+Career+growth" alt="Typing SVG" /></a>
 </p>
