@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moses J</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Passionate+Frontend+Developer;Eager+for+tech+learning+%26+career+success" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Passionate+Frontend+Developer%F0%9F%94%A5;Eager+%7CTech+learning%7C+Career+success" alt="Typing SVG" /></a>
 </p>
 
 
