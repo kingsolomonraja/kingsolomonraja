@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moses J</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Passionate+Frontend+Developer;Eager+for+tech+learning+%26+career+success" alt="Typing SVG" /></a>
+</p>
 
 
 - 🔭 I’m currently working on **React Js**
