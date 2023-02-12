@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Passionate+Frontend+Developer%F0%9F%94%A5;Eager+%7CTech+learning%7C+Career+growth" alt="Typing SVG" /></a>
 </p>
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/call-me-hand_1f919.png" width="40" height="40" />
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/call-me-hand_1f919.png" width="20" height="20" />
 
 - 🔭 I’m currently working on **React Js**
 
