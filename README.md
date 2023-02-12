@@ -5,13 +5,13 @@
 
 - <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="20" height="20" />I’m currently working on **React Js**
 
-- <img src="https://em-content.zobj.net/source/microsoft-teams/337/open-book_1f4d6.png" width="20" height="20" /> I’m currently learning **Blockchain**
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/open-book_1f4d6.png" width="20" height="20" /> I’m currently learning **Blockchain**
 
-- <img src="https://em-content.zobj.net/thumbs/320/docomo/205/speech-balloon_1f4ac.png" width="20" height="20" /> Ask me about **MEARN**
+<img src="https://em-content.zobj.net/thumbs/320/docomo/205/speech-balloon_1f4ac.png" width="20" height="20" /> Ask me about **MEARN**
 
-- <img src="https://em-content.zobj.net/source/microsoft-teams/337/call-me-hand_1f919.png" width="20" height="20" /> How to reach me **mosesrstar18@gmail.com**
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/call-me-hand_1f919.png" width="20" height="20" /> How to reach me **mosesrstar18@gmail.com**
 
-- ⚡ Fun fact **Coding can “power up” your brain**
+⚡ Fun fact **Coding can “power up” your brain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
