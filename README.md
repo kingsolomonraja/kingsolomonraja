@@ -32,11 +32,11 @@
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="45" height="45" />
 <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="45" height="45" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42"/>
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/>
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
 </p>
 
